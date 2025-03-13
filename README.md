@@ -1,4 +1,3 @@
-`markdown
 # 中国教育新闻网新闻采集系统
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
